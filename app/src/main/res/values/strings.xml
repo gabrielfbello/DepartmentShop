@@ -1,0 +1,18 @@
+<resources>
+    <string name="app_name">Loja de Departamentos</string>
+    <string name="cliente_nome">Nome</string>
+    <string name="cliente_cpf">CPF</string>
+    <string name="item_nome">Nome do Item</string>
+    <string name="item_quantidade">Quantidade</string>
+    <string name="item_valor_unitario">Valor Unitário</string>
+    <string name="parcelas">Parcelas</string>
+    <string name="btn_adicionar">Adicionar Item</string>
+    <string name="btn_concluir">Concluir Pedido</string>
+    <string name="lista_itens">Itens do Pedido</string>
+    <string name="total">Total</string>
+    <string name="total_itens">Total de Itens</string>
+    <string name="parcelas_texto">Parcelas</string>
+    <string name="valor_total">Valor Total</string>
+    <string name="large_text">Texto grande</string>
+    <string name="action_settings">Configurações</string>
+</resources>
